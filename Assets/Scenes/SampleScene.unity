@@ -764,7 +764,7 @@ MonoBehaviour:
     dialogStruct:
       characterName: Miso
       dialogText: Ahoj. Volam sa Michal Flaska a Unity je lepsie ako unreal engine.
-      characterImage: {fileID: 21300000, guid: 6d2c30897f5008e4ab0a9ed01a61bc56, type: 3}
+      characterImage: {fileID: 21300000, guid: 15b1127880d1e654a9d9f795ac843bcd, type: 3}
       dialogOptions:
       - optionText: Ano Suhlasim
         nextDialogName: Suhlasis S Unity
@@ -782,7 +782,7 @@ MonoBehaviour:
     dialogStruct:
       characterName: Miso
       dialogText: JEJ.
-      characterImage: {fileID: 21300000, guid: 6d2c30897f5008e4ab0a9ed01a61bc56, type: 3}
+      characterImage: {fileID: 21300000, guid: 15b1127880d1e654a9d9f795ac843bcd, type: 3}
       dialogOptions:
       - optionText: Ist na zaciatok
         nextDialogName: Start
@@ -800,7 +800,7 @@ MonoBehaviour:
     dialogStruct:
       characterName: Miso
       dialogText: NIE TY CHUJ. UNITY LEPSIE
-      characterImage: {fileID: 21300000, guid: ce832f5f70b6adf409ac2cc0fb4ccf51, type: 3}
+      characterImage: {fileID: 21300000, guid: 1e5abf8e9a661d041abf40aaba81b01b, type: 3}
       dialogOptions:
       - optionText: Unreal je stale lepsi.
         nextDialogName: Stale nesuhlasis s Unity
@@ -818,7 +818,7 @@ MonoBehaviour:
     dialogStruct:
       characterName: Miso
       dialogText: ZABI SA.
-      characterImage: {fileID: 21300000, guid: ce832f5f70b6adf409ac2cc0fb4ccf51, type: 3}
+      characterImage: {fileID: 21300000, guid: 1e5abf8e9a661d041abf40aaba81b01b, type: 3}
       dialogOptions:
       - optionText: Ist na zaciatok
         nextDialogName: Start
@@ -889,7 +889,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Michal Flaska
+  m_text: Miso
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -916,7 +916,7 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 16.3
+  m_fontSize: 22.35
   m_fontSizeBase: 36
   m_fontWeight: 400
   m_enableAutoSizing: 1
